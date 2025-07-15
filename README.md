@@ -36,14 +36,6 @@ A simple and fun memory game built to test and improve your memory skills. Flip 
    ```
    Or simply open `index.html` in your browser if it's a static project.
 
-## How to Play
-
-1. Click on a card to flip it.
-2. Flip another card to find its matching pair.
-3. If the cards match, they remain flipped.
-4. If not, they flip back over.
-5. Try to match all pairs in the least number of moves and time.
-
 ## Project Structure
 
 ```
@@ -54,6 +46,14 @@ Memory_Game/
 ├── README.md
 └── package.json    # (if Node.js project)
 ```
+
+## How to Play
+
+1. Click on a card to flip it.
+2. Flip another card to find its matching pair.
+3. If the cards match, they remain flipped.
+4. If not, they flip back over.
+5. Try to match all pairs in the least number of moves and time.
 
 ## Contributing
 
