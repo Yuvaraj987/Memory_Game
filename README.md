@@ -66,3 +66,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 Developed by [Yuvaraj987](https://github.com/Yuvaraj987)
+
+---
