@@ -4,11 +4,11 @@ A simple and fun memory game built to test and improve your memory skills. Flip 
 
 ## Features
 
-- Interactive card flipping and matching
-- Timer to track your best time
-- Scoreboard to keep track of attempts
-- Responsive design for desktop and mobile
-- Customizable grid sizes and themes (if implemented)
+- 🃏 Interactive card flipping and matching  
+- ⏱️ Timer to track your best time  
+- 🏆 Scoreboard to keep track of attempts  
+- 📱 Responsive design for desktop and mobile  
+- 🎨 Customizable grid sizes and themes
 
 ## Screenshot
 
