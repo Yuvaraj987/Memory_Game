@@ -12,7 +12,7 @@ A simple and fun memory game built to test and improve your memory skills. Flip 
 
 ## Screenshot
 
-
+![Screenshot](/Card.png)
 
 ## License
 
